@@ -2,6 +2,10 @@
 
 📊 **Entusiasta da área de Dados**, em constante evolução e apaixonado por transformar informações em decisões com valor.
 
+## 📂 Meus projetos 
+
+[Acesse meu Portfólio Online](https://app.powerbi.com/view?r=eyJrIjoiZDZhNDc0ZmItMTM5My00Y2I5LTgwYzUtZDcyMjk2ZTY1OWYzIiwidCI6ImUyYmViMmFiLTliZjctNDYyZC1hZDMxLWE3NjJkMmNkZGVhNiJ9)
+
 ## 🧠 Sobre mim
 
 - 🎓 Em formação como **Analista de Dados pela Data Science Academy (DSA)**
@@ -37,9 +41,7 @@
   ⚙️ Power Query
 </div>
 
-## 📂 Meus projetos (em construção)
 
-Estou organizando meus primeiros projetos para publicação aqui no GitHub. Em breve, você encontrará dashboards, análises e notebooks aplicados a problemas reais com foco em boas práticas, visualização e storytelling com dados.
 
 ## 🤝 Vamos nos conectar!
 
