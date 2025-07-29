@@ -4,7 +4,7 @@
 
 ## 📂 Meus projetos 
 
-[Acesse meu Portfólio Online](https://app.powerbi.com/view?r=eyJrIjoiZDZhNDc0ZmItMTM5My00Y2I5LTgwYzUtZDcyMjk2ZTY1OWYzIiwidCI6ImUyYmViMmFiLTliZjctNDYyZC1hZDMxLWE3NjJkMmNkZGVhNiJ9)
+[Acesse Meu Portfólio](https://app.powerbi.com/view?r=eyJrIjoiZDZhNDc0ZmItMTM5My00Y2I5LTgwYzUtZDcyMjk2ZTY1OWYzIiwidCI6ImUyYmViMmFiLTliZjctNDYyZC1hZDMxLWE3NjJkMmNkZGVhNiJ9)
 
 ## 🧠 Sobre mim
 
