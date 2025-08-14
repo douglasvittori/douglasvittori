@@ -4,7 +4,7 @@
 
 ## 📂 Meus projetos 
 
-[Conheça Meu Portfólio](https://app.powerbi.com/view?r=eyJrIjoiZDZhNDc0ZmItMTM5My00Y2I5LTgwYzUtZDcyMjk2ZTY1OWYzIiwidCI6ImUyYmViMmFiLTliZjctNDYyZC1hZDMxLWE3NjJkMmNkZGVhNiJ9)
+[Conheça Meu Portfólio](https://douglasvittori-portfolio.lovable.app/)
 
 ## 🧠 Sobre mim
 
